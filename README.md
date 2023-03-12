@@ -1,4 +1,4 @@
-# Speech Synthesis Web App made with Svelte.js
+## Speech Synthesis Web App made with Svelte.js
 
 This is a speech synthesis app built with Svelte, a lightweight front-end JavaScript framework. The app provides a simple user interface for users to input text and generate speech from it. It utilizes the Web Speech API to convert text to speech and supports various languages and voices.
 
