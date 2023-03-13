@@ -159,14 +159,15 @@ Adjust the voice settings: Pitch, rate, and volume.
 	}
 	.main{
 		background-color: white;
-		margin: 1.2rem;
+		margin: 1rem;
 		border-radius: 3rem;
-		padding: 1rem;
+		padding: 0.3rem;
 	}
 	.formInput{
 		background-color: rgb(34, 30, 30);
 		color: white;
-		padding: 1rem;
+		padding: 2rem 0.2rem 2rem 0.2rem;
 		border-radius: 2rem;
+    margin-bottom: 1rem;
 	}
 </style>
