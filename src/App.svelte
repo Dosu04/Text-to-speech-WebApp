@@ -168,6 +168,6 @@ Adjust the voice settings: Pitch, rate, and volume.
 		color: white;
 		padding: 2rem 0.2rem 2rem 0.2rem;
 		border-radius: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.2rem;
 	}
 </style>
