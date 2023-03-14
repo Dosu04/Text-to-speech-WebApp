@@ -13,11 +13,7 @@ The app allows users to choose a language and a voice, adjust the speech rate an
 
 
 ### Usage
-To use the app, simply visit the deployed version or run the code locally. The app is easy to install and use, and the source code is open for modification and customization.
-
-
-### License
-This app is licensed under the MIT License. See the LICENSE file for more information.
+To use the app, simply visit the deployed version or run the code locally. The app is easy to install and use, and the source code is open for modification and customization. https://dosu04.github.io/dosu-speech-app/
 
 
 -Emmanuel Oladosu
